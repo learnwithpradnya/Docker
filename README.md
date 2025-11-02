@@ -18,8 +18,8 @@ Every day, I have shared practical insights, commands, and mini-projects to help
 
 | 🔢 Day | 📘 Topic | 🔗 LinkedIn Article |
 |:---:|:------|:----------------|
-| **Day 1** | Containers vs VMs — *Why Docker?* | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
-| **Day 2** | Docker Architecture Explained | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 1** | Containers vs VMs — *Why Docker?* | [Read Here]([https://www.linkedin.com/posts/clouddevopswithpradnya](https://www.linkedin.com/posts/learnwithpradnya_docker-techlearning-10dayschallenge-activity-7371142883950796800-saOv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABoKJEIBSWzQNBn-yDqEL86ZUAALSM6idos)) |
+| **Day 2** | Docker Architecture Explained | [Read Here]([https://www.linkedin.com/posts/clouddevopswithpradnya](https://www.linkedin.com/posts/learnwithpradnya_docker-techlearning-10dayschallenge-activity-7371505231131660288-gzdG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABoKJEIBSWzQNBn-yDqEL86ZUAALSM6idos)) |
 | **Day 3** | Dockerfile — *Build & Optimize Images* | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
 | **Day 4** | Volumes & Networking — *Data + Communication* | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
 | **Day 5** | Docker Compose — *Multi-Container Apps* | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
