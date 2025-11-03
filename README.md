@@ -53,7 +53,7 @@ At the end of this challenge you’ll gain the ability to:
 
 ## 👩‍💻 **About Me**
 <p align="center">
-  <img src="images/AboutMeBanner.png" alt="About Me Banner" width="80%"/>
+  <img src="images/AboutMe.png" alt="About Me Banner" width="80%"/>
 </p>
 
 I’m **Pradnya Deshpande**, a Cloud & DevOps professional sharing hands-on learnings with  
