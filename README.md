@@ -52,8 +52,14 @@ At the end of this challenge you’ll gain the ability to:
 ---
 
 ## 👩‍💻 **About Me**
+<p align="center">
+  <img src="images/AboutMeBanner.png" alt="About Me Banner" width="80%"/>
+</p>
 
+I’m **Pradnya Deshpande**, a Cloud & DevOps professional sharing hands-on learnings with  
+**Azure, Terraform, Docker, and GitHub Actions.**  
+
+I believe in:  
+> **Learn → Build → Automate → Share.**
 
 ---
-> “Learn, Build, Automate, and Share.”  
-Each day in this challenge moves closer to mastering containerization and deploying production-grade workloads confidently.
