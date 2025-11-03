@@ -1,0 +1,9 @@
+services:
+  redis-server:
+   image: 'redis:alpine'
+  
+  python:
+   build:
+    dockerfile: Dockerfile
+   ports:
+     - "3000:8081"
