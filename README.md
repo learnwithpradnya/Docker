@@ -8,7 +8,7 @@
 
 ## 🚀 **Let’s Get Started**
 In this **10-day challenge**, I’m diving deep into **Docker** — the backbone of containerization in cloud-native environments.  
-Every day, I have shared practical insights, commands, and mini-projects to help.
+I have shared practical insights, commands, and 3 mini-projects to help.
 
 ---
 
