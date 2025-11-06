@@ -1,4 +1,4 @@
-# 🚀 Real-Time Usecase #2 | Azure DevOps CI/CD with Terraform and Dockerized WebApp
+# 🚀 Azure DevOps CI/CD with Terraform and Dockerized WebApp | Real-World Use Case #2
 
 ## 🔧 Usecase Overview
 
